@@ -1,0 +1,90 @@
+body{
+    background-image: url(https://www.pluggedin.com/wp-content/uploads/2023/06/tom-and-jerry-tales.jpg);
+    background-repeat: no-repeat;
+    background-size: 110%;
+}
+
+.first-row{
+    margin-left: 300px;
+}
+h1{
+   text-align: center;
+   background-color: orange;    
+}
+h2{
+    color: aquamarine;
+    text-align: center; 
+    
+}
+
+.firstimage{
+    padding-left: 100px;
+    height: 100px;
+    width: 100px;
+}
+.secondimage{
+    
+    padding-left: 70px;
+    height: 100px;
+    width: 100px;
+}
+.thirdimage{
+    
+    padding-left: 50px;
+    height: 100px;
+    width: 100px;
+}
+.fourthimage{
+    padding-left:10px;
+    height: 100px;
+    width: 100px;
+   
+}
+.fifthimage{
+    padding-left: 5px;
+    height: 100px;
+    width: 100px;
+}
+.second-row{
+    margin-top: 50px;
+    /* display: flex;
+    align-items: flex-end; */
+    
+}
+
+h2{
+    color: aquamarine;
+    text-align: center; 
+    
+}
+    
+.img1{
+    padding-left:350px;
+    height: 100px;
+    width: 100px;
+}
+.img2{
+    padding-left:10px;
+    height: 100px;
+    width: 100px;
+}
+.img3{
+    padding-left:10px;
+    height: 100px;
+    width: 100px;
+}
+.img4{
+    padding-left:10px;
+    height: 100px;
+    width: 100px;
+}
+.img5{
+    padding-left:10px;
+    height: 100px;
+    width: 100px;
+}
+.img6{
+    padding-left:10px;
+    height: 100px;
+    width: 100px;
+}
